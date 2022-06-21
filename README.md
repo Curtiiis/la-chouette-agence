@@ -13,7 +13,7 @@ Vous devrez réalisé un audit SEO complet du site ainsi que proposer des améli
 2. Amélioration du SEO du site.
 3. Comparaison des résultats.
 
-Vous devrez livrez : 
+Vous devrez livrer : 
 - Le rapport d’analyse SEO du site, utilisant le modèle fourni, dans lequel on identifie clairement les 10 recommandations sélectionnées ; 
 - Le code source complet du site amélioré ; 
 - Un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).
